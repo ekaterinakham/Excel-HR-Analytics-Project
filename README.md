@@ -1,2 +1,2 @@
-# PortfoilioProjects
+# PortfolioProjects
 Data Analysis Portfolio Projects
